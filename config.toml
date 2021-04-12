@@ -60,7 +60,7 @@ disableHugoGeneratorInject = false
   images = [""]
 
   # Home subtitle of the index page.
-  homeSubtitle = "Data Scientist - Forecaster Analyst"
+  homeSubtitle = "Data Scientist - Forecaster Analyst - Teacher"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -131,7 +131,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:zanottimarco17@gmail.com"
+    url  = "zanottimarco17@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -143,14 +143,14 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "whatsapp"
-    url  = "phoneto:3349808108"
+    url  = "3349808108"
 
 [menu]
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Blog"
+  #  url        = "posts/"

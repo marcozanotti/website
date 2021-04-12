@@ -1,0 +1,193 @@
+---
+title: "Marco Zanotti's CV"
+author: Marco Zanotti
+date: "`r Sys.Date()`"
+params:
+  pdf_mode:
+    value: false
+  lang:
+    value: 'en'
+  resume:
+    value: false
+output:
+  pagedown::html_resume:
+    css: ['cv.css', 'resume']
+    self_contained: true
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results = 'asis', 
+  echo = FALSE
+)
+
+library(magrittr) # For the pipe
+source("C:/Users/marco.zanotti/Documents/RProjects/website/R/cv_printing_functions.r")
+Sys.setlocale("LC_ALL", "us")
+
+# Read in all data and initialize a CV printer object
+cv <- create_cv_object(
+  data_location = "https://docs.google.com/spreadsheets/d/1FwVp14baq9CeUS2x8nniXf9tBCBc3hJJxbbH3DDZziY/edit?usp=sharing"
+  ) %>% 
+  clean_cv_object(language = params$lang, resume = params$resume)
+```
+
+```{r}
+# When in pdf export mode the little dots are unaligned, so fix that with some conditional CSS.
+if (params$pdf_mode) {
+    cat("
+<style>
+:root{
+  --decorator-outer-offset-left: -6.5px;
+}
+</style>")
+}
+```
+
+
+
+Aside
+================================================================================
+
+<center>
+![Marco Zanotti](C:/Users/marco.zanotti/Documents/RProjects/website/static/img/portrait.png){width=80%}
+</center>
+  
+&nbsp;  
+
+#### Contacts {#contact}
+```{r}
+cv %>% print_contacts()
+```
+  
+&nbsp;  
+  
+#### Statistics
+```{r}
+cv %>% print_text_block("statistics_skills_aside")
+```
+  
+&nbsp;  
+  
+#### Programming
+```{r}
+cv %>% print_skill_bars(section_id = "programming")
+```
+  
+&nbsp;  
+  
+#### Versioning
+```{r}
+cv %>% print_skill_bars(section_id = "versioning")
+```
+
+
+
+Main
+================================================================================
+
+Marco Zanotti {#title}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_text_block("introduction") 
+```
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_experience("professional_experience")
+```
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_experience("teaching_experience")
+```
+  
+&nbsp;  
+  
+
+Publications {data-icon=book-open}
+--------------------------------------------------------------------------------
+::: aside
+#### CI / CD
+```{r}
+cv %>% print_skill_bars(section_id = "integration")
+```
+  
+&nbsp;  
+  
+#### Cloud
+```{r}
+cv %>% print_skill_bars(section_id = "cloud")
+```
+    
+&nbsp;  
+  
+#### Languages
+```{r}
+cv %>% print_skill_bars(section_id = "language")
+```
+    
+&nbsp;  
+  
+&nbsp;  
+      
+&nbsp;  
+  
+#### Sports & Hobbies
+```{r}
+cv %>% print_text_block("sports_and_hobbies_aside")
+```
+
+&nbsp;  
+  
+&nbsp;  
+  
+&nbsp;  
+  
+&nbsp;  
+  
+&nbsp;  
+    
+&nbsp;  
+  
+&nbsp;  
+  
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).  
+  
+*Last updated on `r format(Sys.time(), '%B %Y')`*
+:::  
+  
+```{r}
+cv %>% print_experience("publication")
+```
+
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_experience("education")
+```
+
+
+Certificates {data-icon=award}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_experience("certification")
+```
+
+
+Personal Competences {data-icon=user-cog}
+--------------------------------------------------------------------------------
+
+```{r}
+cv %>% print_experience("personal_competence")
+```
