@@ -131,7 +131,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "zanottimarco17@gmail.com"
+    url  = "mailto:zanottimarco17@gmail.com"
 
   [[params.social]]
     name = "github"
@@ -143,7 +143,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "whatsapp"
-    url  = "3349808108"
+    url  = "https://api.whatsapp.com/send?phone=393349808108&text=Hello%20Marco,"
 
 [menu]
   [[menu.main]]
