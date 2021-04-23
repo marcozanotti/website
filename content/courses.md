@@ -6,7 +6,7 @@ aliases:
 author:
   name: Marco Zanotti
 date: "2021-04-12"
-title: Projects
+title: Courses
 ---
 
-Past, current and future projects.
+Ongoing and past courses informations for my students.

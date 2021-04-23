@@ -63,7 +63,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Data Scientist - Forecaster Analyst - Teacher"
 
   # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
+  # backgroundImage = "img/kite.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -154,6 +154,10 @@ disableHugoGeneratorInject = false
     identifier = "projects"
     name       = "Projects"
     url        = "projects/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Courses"
+    url        = "courses/"
   #[[menu.main]]
   #  identifier = "posts"
   #  name       = "Blog"
