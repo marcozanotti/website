@@ -86,6 +86,8 @@ clean_cv_object <- function(cv, language = "en", resume = FALSE) {
     dplyr::filter(lang == language)
   cv$text_blocks <- cv$text_blocks %>%
     dplyr::filter(lang == language)
+  cv$skills <- cv$skills %>%
+    dplyr::filter(lang == language)
 
   if (resume) {
     cv$experiences <- cv$experiences %>%

@@ -23,7 +23,12 @@ knitr::opts_chunk$set(
 
 library(magrittr) # For the pipe
 source("C:/Users/marco.zanotti/Documents/RProjects/website/R/cv_printing_functions.r")
-Sys.setlocale("LC_ALL", "us")
+
+if (params$lang == "en") {
+  Sys.setlocale("LC_ALL", "us")
+} else {
+  Sys.setlocale("LC_ALL", "Italian_Italy.1252")
+}
 
 # Read in all data and initialize a CV printer object
 cv <- create_cv_object(
@@ -54,30 +59,46 @@ Aside
 </center>
   
 &nbsp;  
-
-#### Contacts {#contact}
-```{r}
+  
+```{r contacts}
+if (params$lang == "en") {
+  cat("#### Contacts {#contact}\n")
+} else {
+  cat("#### Contatti {#contact}\n")
+}
 cv %>% print_contacts()
 ```
   
 &nbsp;  
   
-#### Statistics
-```{r}
+```{r statistics}
+if (params$lang == "en") {
+  cat("#### Statistics\n")
+} else {
+  cat("#### Statistica\n")
+}
 cv %>% print_text_block("statistics_skills_aside")
 ```
   
 &nbsp;  
   
-#### Programming
-```{r}
+```{r programming}
+if (params$lang == "en") {
+  cat("#### Programming\n")
+} else {
+  cat("#### Programmazione\n")
+}
 cv %>% print_skill_bars(section_id = "programming")
 ```
   
 &nbsp;  
   
-#### Versioning
-```{r}
+```{r versioning}
+if (params$lang == "en") {
+  cat("#### Versioning\n")
+} else {
+  cat("#### Versioning\n")
+}
 cv %>% print_skill_bars(section_id = "versioning")
 ```
 
@@ -94,43 +115,65 @@ cv %>% print_text_block("introduction")
 ```
 
 
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-```{r}
+```{r professional_experience}
+if (params$lang == "en") {
+  cat("## Professional Experience {data-icon=suitcase}\n")
+} else {
+  cat("## Esperienza Professionale {data-icon=suitcase}\n")
+}
 cv %>% print_experience("professional_experience")
 ```
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-```{r}
+```{r teaching_experience}
+if (params$lang == "en") {
+  cat("## Teaching Experience {data-icon=chalkboard-teacher}\n")
+} else {
+  cat("## Insegnamento {data-icon=chalkboard-teacher}\n")
+}
 cv %>% print_experience("teaching_experience")
 ```
   
 &nbsp;  
   
 
-Publications {data-icon=book-open}
---------------------------------------------------------------------------------
+```{r publications}
+if (params$lang == "en") {
+  cat("## Publications {data-icon=book-open}\n")
+} else {
+  cat("## Pubblicazioni {data-icon=book-open}\n")
+}
+```
+
 ::: aside
-#### CI / CD
-```{r}
+```{r ci_cd}
+if (params$lang == "en") {
+  cat("#### CI / CD\n")
+} else {
+  cat("#### CI / CD\n")
+}
 cv %>% print_skill_bars(section_id = "integration")
 ```
   
 &nbsp;  
   
-#### Cloud
-```{r}
+```{r cloud}
+if (params$lang == "en") {
+  cat("#### Cloud\n")
+} else {
+  cat("#### Cloud\n")
+}
 cv %>% print_skill_bars(section_id = "cloud")
 ```
     
 &nbsp;  
   
-#### Languages
-```{r}
+```{r languages}
+if (params$lang == "en") {
+  cat("#### Languages\n")
+} else {
+  cat("#### Lingue\n")
+}
 cv %>% print_skill_bars(section_id = "language")
 ```
     
@@ -140,8 +183,12 @@ cv %>% print_skill_bars(section_id = "language")
       
 &nbsp;  
   
-#### Sports & Hobbies
-```{r}
+```{r sports_hobbies}
+if (params$lang == "en") {
+  cat("#### Spoorts & Hobbies\n")
+} else {
+  cat("#### Sport e Hobby\n")
+}
 cv %>% print_text_block("sports_and_hobbies_aside")
 ```
 
@@ -159,35 +206,56 @@ cv %>% print_text_block("sports_and_hobbies_aside")
   
 &nbsp;  
   
-Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).  
+
+```{r disclaimer}
+if (params$lang == "en") {
+  cat(
+"Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).  
   
-*Last updated on `r format(Sys.time(), '%B %Y')`*
+*Last updated on *"
+)
+} else {
+  cat(
+"Creato con il pacchetto R [**pagedown**](https://github.com/rstudio/pagedown).  
+  
+*Aggiornato a *"
+)
+}
+```
+*`r stringr::str_to_title(format(Sys.time(), '%B %Y'))`*
+
 :::  
   
-```{r}
+```{r publications_content}
 cv %>% print_experience("publication")
 ```
 
 
-Education {data-icon=graduation-cap}
---------------------------------------------------------------------------------
-
-```{r}
+```{r education}
+if (params$lang == "en") {
+  cat("## Education {data-icon=graduation-cap}\n")
+} else {
+  cat("## Istruzione {data-icon=graduation-cap}\n")
+}
 cv %>% print_experience("education")
 ```
 
 
-Certificates {data-icon=award}
---------------------------------------------------------------------------------
-
-```{r}
+```{r certificates}
+if (params$lang == "en") {
+  cat("## Certificates {data-icon=award}\n")
+} else {
+  cat("## Certificazioni {data-icon=award}\n")
+}
 cv %>% print_experience("certification")
 ```
 
 
-Personal Competences {data-icon=user-cog}
---------------------------------------------------------------------------------
-
-```{r}
+```{r personal_competences}
+if (params$lang == "en") {
+  cat("## Personal Competences {data-icon=user-cog}\n")
+} else {
+  cat("## Competenze Personali {data-icon=user-cog}\n")
+}
 cv %>% print_experience("personal_competence")
 ```
