@@ -58,14 +58,25 @@ approaches and algorithms.
 
 ## Teaching Experience
 
+[Superprof](https://www.superprof.it/)
+
+[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)
+
+[Statistics & Mathematics](https://www.superprof.it/lezioni-matematica-statistica-piu-anni-esperienza-analisi-dati-laureato-magistrale-finanza-quantitativa.html)
+
+[Data Science & R Programming](https://www.superprof.it/lezioni-data-science-machine-learning-programmazione-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)
+
+RStudio Certificate
+
 
 
 ## Publications
 
 In 2021 I created my first public available R package.  
 
-Lorenzo Mazzucchelli and I worked for a year on various analysis related to 
-the topic of **behavioural finance** and we noticed that no packages were available
+[Lorenzo Mazzucchelli](https://www.linkedin.com/in/lorenzo-mazzucchelli-72a661122/) 
+and I worked for a year on various analysis related to the topic of 
+**behavioural finance** and we noticed that no packages were available
 on CRAN to perform such kind of researches. Hence, we decided to develop the 
 first R package allowing R users to perform several types of behavioural analysis.  
 
@@ -75,7 +86,11 @@ already fully available on [Github](https://github.com/marcozanotti/dispositionE
 Soon, we will present it at [useR!2021](https://user2021.r-project.org/) and we 
 will proceed to CRAN submission.  
 
-[![](/img/dispositionEffect_logo.png)](https://marcozanotti.github.io/dispositionEffect)
+&nbsp;  
+
+{{< image src="/img/de_250x250.png" position="center" >}}
+
+&nbsp;  
 
 Furthermore, together with Lorenzo, I will publish soon also a **scientific research**
 related to the disposition effect on financial markets.  
@@ -85,12 +100,18 @@ related to the disposition effect on financial markets.
 I studied in Italy and Finland, where I lived for six months and I had amazing 
 experiences.  
 
-![](/img/lapland.png)
+&nbsp;  
 
-I graduated cum laude in a Master's degree in Quantitative Finance, with a
-thesis related to time series forecasting.  
+{{< image src="/img/lapland.jpg" position="center" >}}
 
-In 2018, while working, I got a second level Master in Data Science.  
+&nbsp;  
+
+I graduated **cum laude** in a **Master's degree in Quantitative Finance** at
+the University of Milan, with a thesis related to time series forecasting.  
+
+In 2018, while working, I got a second level **Master in Data Science**.  
+
+I like studying...
 
 
 ## Sports & Hobbies
@@ -100,4 +121,6 @@ like reading manga, playing boadgames, curling and footgolf.
 
 Since 2020, I practice **kitesurf**, and amazing water board sport.
 
-![](/img/kite.jpg)
+&nbsp;  
+
+{{< image src="/img/kite.jpg" position="center" >}}
