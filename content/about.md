@@ -26,9 +26,8 @@ tourism company,
 [Uvet Global Business Travel](https://www.uvetgbt.com/), and its airline
 company [Blue Panorama](https://www.blue-panorama.com/it).
 There, I learnt a ton of things related to **R** and I had the opportunity to work 
-with lot of different data related to
-business travel, pharmaceutical events, online bookings, hotels' reservations,
-and proprietary airline data.  
+with lot of different data related to business travel, pharmaceutical events,
+online bookings, hotels' reservations, and proprietary airline data.  
 
 From 2020, I am working as a Data Scientist for 
 [T-Voice](https://www.triboo-voice.com/), a start-up company of the 
@@ -58,16 +57,27 @@ approaches and algorithms.
 
 ## Teaching Experience
 
-[Superprof](https://www.superprof.it/)
+In 2019 began my collaboration with the University of Milan. I teach statistics
+in a Bachelor's degree course.  
 
-[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)
+From the very first experience as a TA, I had also the opportunity to have lectures
+in other major Italian Universities, always related to **Statistics & Data Science**.   
 
-[Statistics & Mathematics](https://www.superprof.it/lezioni-matematica-statistica-piu-anni-esperienza-analisi-dati-laureato-magistrale-finanza-quantitativa.html)
+In 2022 I will be the **Professor of [Time Series Forecasting]()** for the Master's degree
+in [Data Science for Economics](https://www.unimi.it/it/corsi/corsi-di-laurea/data-science-and-economics-dse) 
+in Milan.  
 
-[Data Science & R Programming](https://www.superprof.it/lezioni-data-science-machine-learning-programmazione-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)
+I really like teaching, indeed, since 2018 I have helped **more than 100 students** 
+with their exams, thesis and Phd projects, through **private lectures** and support. 
+I mainly teach econometrics, time series, forecasting, R programming, and data science.  
+I am ranked the first on [Superprof](https://www.superprof.it/) Italia for 
+**[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)**, and on the same platform I also offer lectures on
+**[Statistics & Mathematics](https://www.superprof.it/lezioni-matematica-statistica-piu-anni-esperienza-analisi-dati-laureato-magistrale-finanza-quantitativa.html)**, and 
+**[Data Science & R Programming](https://www.superprof.it/lezioni-data-science-machine-learning-programmazione-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)**.   
 
-RStudio Certificate
-
+Moreover, in 2019 I also taught R Programming to business experts of Uvet GBT,
+and I am now studying to become an 
+[RStudio Certified R Trainer](https://education.rstudio.com/trainers/).  
 
 
 ## Publications
@@ -109,17 +119,20 @@ experiences.
 I graduated **cum laude** in a **Master's degree in Quantitative Finance** at
 the University of Milan, with a thesis related to time series forecasting.  
 
-In 2018, while working, I got a second level **Master in Data Science**.  
+In 2018, while working, I got a second level **Master in Data Science**.    
 
-I like studying...
+I like studying, indeed, during the last five years I got many certifications
+related to Data Science & Forecasting. 
+I am now studying Python to improve programming skills, and I will soon enrol 
+into a Google Cloud Platform Certification programme.
 
 
 ## Sports & Hobbies
 
 I was a **footballer**. I played in Italian minor championships until 22. I also 
-like reading manga, playing boadgames, curling and footgolf.  
+like reading manga, playing boardgames, curling and footgolf.  
 
-Since 2020, I practice **kitesurf**, and amazing water board sport.
+Since 2020, I practice **kitesurf**, an amazing water-board sport.
 
 &nbsp;  
 
