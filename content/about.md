@@ -9,12 +9,13 @@ date: "2021-04-12"
 title: About Me
 ---
 
-Hi, I am Marco from Italy. I am an R Developer and I am very passionate about 
+Hi, I am Marco from Italy.  
+I am an R Developer and I am very passionate about 
 learning and education.  
 I speak Italian, English and a little bit of French. 
 
-Here you can have a look at my [Curriculum Vitae](/pagedown-html/cv.html) or,
-if you prefer, download a printable version [here](/pagedown-pdf/cv.pdf).  
+Here you can have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) (or download 
+a [pdf version](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.pdf)).  
 
 
 ## Professional Experience
@@ -57,8 +58,8 @@ approaches and algorithms.
 
 ## Teaching Experience
 
-In 2019 began my collaboration with the University of Milan. I teach statistics
-in a Bachelor's degree course.  
+In 2019 began my collaboration with the University of Milan, since then I am 
+teaching statistics in few Bachelor's degree courses.  
 
 From the very first experience as a TA, I had also the opportunity to have lectures
 in other major Italian Universities, always related to **Statistics & Data Science**.   
