@@ -14,8 +14,10 @@ I am an R Developer and I am very passionate about
 learning and education.  
 I speak Italian, English and a little bit of French. 
 
-Here you can have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) (or download 
-a [pdf version](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.pdf)).  
+Here you can have a look at my 
+[Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html) 
+(or download a 
+[pdf version](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.pdf)).  
 
 
 ## Professional Experience
@@ -30,11 +32,15 @@ There, I learnt a ton of things related to **R** and I had the opportunity to wo
 with lot of different data related to business travel, pharmaceutical events,
 online bookings, hotels' reservations, and proprietary airline data.  
 
-From 2020, I am working as a Data Scientist for 
-[T-Voice](https://www.triboo-voice.com/), a start-up company of the 
-[Triboo Group](https://triboo.com/), a digital transformation factory quoted 
-on the Italian Stock Exchange. Here, I work as a Senior Consultant to develop
+In 2020, I started to work as a Data Scientist for 
+T-Voice, a start-up company of the [Triboo Group](https://triboo.com/), 
+a digital transformation factory quoted on the Italian Stock Exchange. 
+Here, I work as a Senior Consultant to develop
 **client specific data analysis solutions**.
+
+Since 2021, following an M&A operation, I am working as a **Senior Data Scientist
+and R Developer** in [Blogmeter](https://www.blogmeter.it/it/home), an Italian 
+Social Monitoring company.
 
 The first project, on which I was involved during the years, was related to 
 the development of an **Optical Character Recognition pipeline** allowing to 
@@ -64,20 +70,22 @@ teaching statistics in few Bachelor's degree courses.
 From the very first experience as a TA, I had also the opportunity to have lectures
 in other major Italian Universities, always related to **Statistics & Data Science**.   
 
-In 2022 I will be the **Professor of [Time Series Forecasting]()** for the Master's degree
-in [Data Science for Economics](https://www.unimi.it/it/corsi/corsi-di-laurea/data-science-and-economics-dse) 
+In 2022 I will be the **Professor of [Time Series Forecasting]()** for the Master's degree in 
+[Data Science for Economics](https://www.unimi.it/it/corsi/corsi-di-laurea/data-science-and-economics-dse) 
 in Milan.  
 
 I really like teaching, indeed, since 2018 I have helped **more than 100 students** 
-with their exams, thesis and Phd projects, through **private lectures** and support. 
-I mainly teach econometrics, time series, forecasting, R programming, and data science.  
+with their exams, thesis and PhD projects, through **private lectures** and support. 
+I mainly teach econometrics, time series, forecasting, R programming, statistics and 
+data science related topics.  
 I am ranked the first on [Superprof](https://www.superprof.it/) Italia for 
 **[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)**, and on the same platform I also offer lectures on
 **[Statistics & Mathematics](https://www.superprof.it/lezioni-matematica-statistica-piu-anni-esperienza-analisi-dati-laureato-magistrale-finanza-quantitativa.html)**, and 
 **[Data Science & R Programming](https://www.superprof.it/lezioni-data-science-machine-learning-programmazione-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)**.   
 
-Moreover, in 2019 I also taught R Programming to business experts of Uvet GBT,
-and I am now studying to become an 
+Moreover, since 2019 I am also teaching R Programming to business experts in 
+Uvet GBT and others.
+I am now studying to become an 
 [RStudio Certified R Trainer](https://education.rstudio.com/trainers/).  
 
 
@@ -87,15 +95,16 @@ In 2021 I created my first public available R package.
 
 [Lorenzo Mazzucchelli](https://www.linkedin.com/in/lorenzo-mazzucchelli-72a661122/) 
 and I worked for a year on various analysis related to the topic of 
-**behavioural finance** and we noticed that no packages were available
+**behavioral finance** and we noticed that no packages were available
 on CRAN to perform such kind of researches. Hence, we decided to develop the 
-first R package allowing R users to perform several types of behavioural analysis.  
+first R package allowing R users to perform several types of behavioral analysis.  
 
-The development version of the
-**[dispositionEffect](https://marcozanotti.github.io/dispositionEffect)** package is
-already fully available on [Github](https://github.com/marcozanotti/dispositionEffect).   
-Soon, we will present it at [useR!2021](https://user2021.r-project.org/) and we 
-will proceed to CRAN submission.  
+The released version of the **[dispositionEffect](https://marcozanotti.github.io/dispositionEffect)** 
+package is available on [CRAN](https://CRAN.R-project.org/package=dispositionEffect).  
+The software has been presented at the [useR!2021 Conference](https://user2021.r-project.org/) 
+and it has been listed on the 
+[Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
+on August 2021.  
 
 &nbsp;  
 
@@ -103,7 +112,7 @@ will proceed to CRAN submission.
 
 &nbsp;  
 
-Furthermore, together with Lorenzo, I will publish soon also a **scientific research**
+Furthermore, together with Lorenzo, I am going to publish in 2022 two **scientific research**
 related to the disposition effect on financial markets.  
 
 ## Education
@@ -113,7 +122,7 @@ experiences.
 
 &nbsp;  
 
-{{< image src="/img/lapland.jpg" position="center" >}}
+{{< image src="/img/lapland.png" position="center" >}}
 
 &nbsp;  
 
@@ -124,17 +133,17 @@ In 2018, while working, I got a second level **Master in Data Science**.
 
 I like studying, indeed, during the last five years I got many certifications
 related to Data Science & Forecasting. 
-I am now studying Python to improve programming skills, and I will soon enrol 
+I am now studying Python to improve programming skills, and I will soon enroll 
 into a Google Cloud Platform Certification programme.
 
 
 ## Sports & Hobbies
 
 I was a **footballer**. I played in Italian minor championships until 22. I also 
-like reading manga, playing boardgames, curling and footgolf.  
+like reading manga, playing board games, curling and footgolf.  
 
-Since 2020, I practice **kitesurf**, an amazing water-board sport.
+Since 2020, I practice **kite surf**, an amazing water-board sport.
 
 &nbsp;  
 
-{{< image src="/img/kite.jpg" position="center" >}}
+{{< image src="/img/kite2.png" position="center" >}}
