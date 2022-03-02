@@ -1,2 +1,3 @@
 # Marco Zanotti's  website
-Repo of personal website where you can find my career and blog posts.
+
+Have a look at my [website](https://marcozanotti.netlify.app/)!  
