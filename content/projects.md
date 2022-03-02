@@ -30,10 +30,10 @@ The research project aims at studying the disposition effect more deeply and
 and more effectively compared to what it is already been done by other researchers.  
 To do that, the project focuses on two main aspects:  
 
-1. **Methodological advances** with the publication of 3 working papers:   
-- *Mazzucchelli, 2022, An Analysis of Short Selling and Volatility Impact on the Disposition Effect*  
-- *Mazzucchelli, and Zanotti, 2022, An analysis of the Short Selling Impact on the Disposition Effect extended in the Portfolio Framework*  
-- *Filippin, Mazzucchelli, and Zanotti, 2022, Mean Reverting Expectations to Rationalize the Disposition Effect*  
+1. **Methodological advances** with the publication of 4 working papers:   
+- *Mazzucchelli, 2022, Analysis of short-selling and volatility impact on disposition effect*  
+- *Mazzucchelli, and Zanotti, 2022, Portfolio driven disposition effect: the wide framing approach*  
+- *Mazzucchelli, and Zanotti, 2022, Mean reverting expectations to rationalize the disposition effect*  
 
 2. **Practical advances** with the creation of a software helping researchers and 
 institutions in the computation of the disposition effect: the 

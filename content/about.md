@@ -18,9 +18,7 @@ education.
 I speak Italian, English and a little bit of French.
 
 Here you can have a look at my [Curriculum
-Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html)
-(or download a [pdf
-version](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.pdf)).
+Vitae](https://marcozanotti.github.io/CVitae/).  
 
 
 ## Professional Experience
@@ -71,20 +69,20 @@ algorithms.
 
 ## Teaching Experience
 
-In 2019 began my collaboration with the University of Milan, since then
-I am teaching statistics in few Bachelor's degree courses.
+Since 2019 I am **Adjunct Professor** at the University of Milan. 
+I teach Statistics and Mathematical Methods in few Bachelor's degree 
+courses, and Time Series Forecasting, Statistical Learning and R Coding
+at the Master's degree in 
+[Data Science](https://dse.cdl.unimi.it/en).  
+Have a look at my current [teachings](https://marcozanotti.netlify.app/teachings/).  
 
-From the very first experience as a TA, I had also the opportunity to
+Moreover, during these years, I had also the opportunity to
 have lectures in other major Italian Universities, always related to
-**Statistics & Data Science**.
+**Statistics & Data Science**.  
 
-In 2022 I will be the 
-**Professor of 
-[Time Series Forecasting](https://marcozanotti.github.io/tsforecasting-course/general-infos/tsf_description.html) 
-& R** at
-the Master's degree in 
-[Data Science for Economics](https://www.unimi.it/it/corsi/corsi-di-laurea/data-science-and-economics-dse)
-in Milan.
+Since 2019 I am also teaching R Programming to business
+experts in Uvet GBT and others and I am now studying to become an 
+[RStudio Certified R Trainer](https://education.rstudio.com/trainers/).  
 
 I really like teaching, indeed, since 2018 I have helped **more than 150
 students** with their exams, thesis and PhD projects, through **private
@@ -98,10 +96,6 @@ and on the same platform I also offer lectures on [**Statistics &
 Mathematics**](https://www.superprof.it/lezioni-matematica-statistica-piu-anni-esperienza-analisi-dati-laureato-magistrale-finanza-quantitativa.html),
 and [**Data Science & R
 Programming**](https://www.superprof.it/lezioni-data-science-machine-learning-programmazione-piu-anni-esperienza-analisi-dati-laureato-magistrale.html).
-
-Moreover, since 2019 I am also teaching R Programming to business
-experts in Uvet GBT and others. I am now studying to become an 
-[RStudio Certified R Trainer](https://education.rstudio.com/trainers/).
 
 
 ## Publications
@@ -132,8 +126,8 @@ on August 2021.
 &nbsp;
 
 Furthermore, together with Lorenzo, I am going to publish in 2022 two
-**scientific research** related to the disposition effect on financial
-markets.
+**scientific researches** related to the disposition effect on financial
+markets.  
 
 
 ## Education
@@ -164,7 +158,8 @@ I was a **footballer**. I played in Italian minor championships until
 22. I also like reading manga, playing board games, curling and
 footgolf.
 
-Since 2020, I practice **kite surf**, an amazing water-board sport.
+Since 2020, I practice **kite surf**, an amazing water-board sport, and 
+whenever I can I go kitesurfing all around the world.  
 
 &nbsp;
 
