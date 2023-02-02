@@ -13,8 +13,7 @@ editor_options:
 ---
 
 Hi, I am Marco from Italy.  
-I am an R Developer and I am very passionate about learning and
-education.  
+I am an R Developer and I am very passionate about learning and education.  
 I speak Italian, English and a little bit of French.
 
 Here you can have a look at my [Curriculum
@@ -23,26 +22,24 @@ Vitae](https://marcozanotti.github.io/CVitae/).
 
 ## Professional Experience
 
-I am a **Data Scientist** with 5 years working experience.
+I am a **Data Scientist** with **7 years** working experience.
 
 I started to work as Junior Data Scientist in 2017, in an Italian
-multinational tourism company, [Uvet Global Business
-Travel](https://www.uvetgbt.com/), and its airline company [Blue
-Panorama](https://www.blue-panorama.com/it). There, I learnt a ton of
-things related to **R** and I had the opportunity to work with lot of
-different data related to business travel, pharmaceutical events, online
-bookings, hotels' reservations, and proprietary airline data.
+multinational tourism company, [Uvet Global Business Travel](https://www.uvetgbt.com/), and its airline company [Blue Panorama](https://www.blue-panorama.com/it). 
+There, I learnt a ton of things related to **R** and I had the opportunity 
+to work with lot of different data related to business travel, pharmaceutical events, online bookings, hotels' reservations, and proprietary airline data.
 
 In 2020, I started to work as a Data Scientist for T-Voice, a start-up
-company of the [Triboo Group](https://triboo.com/), a digital
-transformation factory quoted on the Italian Stock Exchange. Here, I
-work as a Senior Consultant to develop **client specific data analysis
+company of the [Triboo Group](https://triboo.com/). There I
+worked as a Senior Consultant to develop **client specific data analysis
 solutions**.
 
 Since 2021, following an M&A operation, I am working as a **Senior Data
-Scientist and R Developer** in
-[Blogmeter](https://www.blogmeter.it/it/home), an Italian Social
-Monitoring company.
+Scientist and R Developer** in [Blogmeter](https://www.blogmeter.it/it/home), 
+an Italian Social Network Monitoring company.
+
+Moreover, since 2022 I am a **PhD Researcher in Statistics** at the University
+of Milano Bicocca.
 
 The first project, on which I was involved during the years, was related
 to the development of an **Optical Character Recognition pipeline**
@@ -52,12 +49,12 @@ developed my first (business) **R package** and I learnt how to
 effectively work and manage a **Unix RStudio Server**, which I was also
 responsible for.
 
-Meanwhile, I performed **opinion mining** analyses through supervised
+During the years, I performed **opinion mining** analyses through supervised
 and unsupervised machine learning methods. In particular, I managed the
-company's text analysis platform. Now, I am the **supervisor of the
-front-end and back-end activities** on the same platform, and I
-**coordinate statistical R&D activities** to improve the platform
-solutions.
+company's text analysis platform. Then, I was the **supervisor of the
+front-end and back-end activities** on the same platform.
+Now, I am the **coordinator of R&D activities** to improve both customer and
+platform solutions.
 
 Finally, throughout all my working experience I was responsible for the
 development of **time series forecasting** models, both for internal and
@@ -72,19 +69,18 @@ algorithms.
 Since 2019 I am **Adjunct Professor** at the University of Milan. 
 I teach Statistics and Mathematical Methods in few Bachelor's degree 
 courses, and Time Series Forecasting, Statistical Learning and R Coding
-at the Master's degree in 
-[Data Science](https://dse.cdl.unimi.it/en).  
-Have a look at my current [teachings](https://marcozanotti.netlify.app/teachings/).  
+at the Master's degree in [Data Science](https://dse.cdl.unimi.it/en).  
+Have a look at my [teachings](https://marcozanotti.netlify.app/teachings/).  
 
 Moreover, during these years, I had also the opportunity to
 have lectures in other major Italian Universities, always related to
 **Statistics & Data Science**.  
 
 Since 2019 I am also teaching R Programming to business
-experts in Uvet GBT and others and I am now studying to become an 
+experts and I am studying to become an 
 [RStudio Certified R Trainer](https://education.rstudio.com/trainers/).  
 
-I really like teaching, indeed, since 2018 I have helped **more than 150
+I really like teaching, indeed, since 2018 I have helped **more than 200
 students** with their exams, thesis and PhD projects, through **private
 lectures** and support. I mainly teach econometrics, time series,
 forecasting, R programming, statistics and data science related
@@ -146,10 +142,12 @@ at the University of Milan, with a thesis related to time series forecasting.
 
 In 2018, while working, I got a second level **Master in Data Science**.
 
-I like studying, indeed, during the last five years I got many
-certifications related to Data Science & Forecasting. 
-I am now studying Python to improve my programming skills and I got few 
-certifications on the Google Cloud Platform.
+Since 2022, I am a **PhD Researcher of Statistics** at the University of Milano 
+Bicocca. 
+
+I like studying, indeed, during the last five years I got many certifications 
+related to Data Science & Forecasting. I am now studying Python to improve my 
+programming skills and I got few certifications on the Google Cloud Platform.
 
 
 ## Sports & Hobbies
@@ -159,8 +157,8 @@ I was a **footballer**. I played in Italian minor championships until
 footgolf.
 
 Since 2020, I practice **kite surf**, an amazing water-board sport, and 
-whenever I can I go kitesurfing all around the world.  
+whenever I can I go kite surfing all around the world.  
 
 &nbsp;
 
-{{< image src="/img/kite2.png" position="center" >}}
+{{< image src="/img/kite1.png" position="center" >}}

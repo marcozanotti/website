@@ -30,10 +30,11 @@ The research project aims at studying the disposition effect more deeply and
 and more effectively compared to what it is already been done by other researchers.  
 To do that, the project focuses on two main aspects:  
 
-1. **Methodological advances** with the publication of 4 working papers:   
-- *Mazzucchelli, 2022, Analysis of short-selling and volatility impact on disposition effect*  
-- *Mazzucchelli, and Zanotti, 2022, Portfolio driven disposition effect: the wide framing approach*  
-- *Mazzucchelli, and Zanotti, 2022, Mean reverting expectations to rationalize the disposition effect*  
+1. **Methodological advances** with the publication of 2 working papers:   
+- *Mazzucchelli, and Zanotti, 2024, Analysis of short-selling and volatility 
+impact on disposition effect*  
+- *Mazzucchelli, and Zanotti, 2024, Portfolio driven disposition effect: the 
+wide framing approach*  
 
 2. **Practical advances** with the creation of a software helping researchers and 
 institutions in the computation of the disposition effect: the 
@@ -68,7 +69,7 @@ foundational plant widely distributed in the Northern hemisphere that
 facilitates other species by creating microclimatic habitats.  
 
 The project ends up with the publication of a scientific paper:  
-- *Pierfederici et al, 2022, Long and warm summers increase the population growth rate of Silene acaulis in Nordic regions*.  
+- *Pierfederici et al, 2024, Long and warm summers increase the population growth rate of Silene acaulis in Nordic regions*.  
 
 
 ## Time Series Forecasting Tool: Global Models

@@ -86,14 +86,14 @@ system called MongoDB.
 The **R Coding** part of the course aims at teaching **R Programming**,
 focusing on how to code with modern and state-of-the-art R packages.
 
--   [General Information](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_description.html)  
--   [Syllabus](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_syllabus.html)   
+- [General Information](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_description.html)  
+- [Syllabus](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_syllabus.html)   
 
 
 ## R for Business
 
-I train professionals (both business and academics) on the use of R, 
-from the very basic to advanced level.  
+I train professionals (both business and academics) on the use of R, from the 
+very basic to advanced level.  
 
 Especially, I offer consultancy on **R in production**, relative to the best 
 practices of software development using R (Code versioning, CI/CD, testing and 
@@ -110,8 +110,7 @@ I teach econometrics, time series, forecasting, R programming, statistics and
 data science related topics to students and business professionals.  
 I have help more than 100 students preparing their exams, thesis and PhD projects.  
 
-If you need help, do not hesitate! Contact me directly emailing to zanottimarco17@gmail.com 
-or texting me on WhatsApp at +39 3349808108.
+If you need help, do not hesitate! Contact me directly emailing to zanottimarco17@gmail.com or texting me on WhatsApp at +39 3349808108.
 
 Reviews on my teaching support can be found on [Superprof](https://www.superprof.it/):  
 - **[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-piu-anni-esperienza-analisi-dati-laureato-magistrale.html)**  
