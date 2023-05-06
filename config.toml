@@ -11,7 +11,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
-# googleAnalytics = ""
+googleAnalytics = "G-5SPJV4NW1L"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
