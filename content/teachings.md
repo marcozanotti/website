@@ -23,8 +23,7 @@ and accuracy, constantly keeping up-to-date with new methods.
 
 The aim of the course is to teach how time series forecasting problems can be solved 
 in practice. The state-of-the-art techniques are presented from a very practical 
-point of view, throughout **R** tutorials. **Python** algorithms are also presented 
-and used within R by means of the reticulate package.  
+point of view, throughout **R** and **Python** tutorials.
 
 - [Course Websites](https://marcozanotti.github.io/tsforecasting-course/)  
 - [Course Descriprion (for Students)](https://marcozanotti.github.io/tsforecasting-course/general-infos/tsf_description.html)
@@ -64,13 +63,17 @@ and state-of-the-art R packages.
 - [Syllabus](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_syllabus.html)   
 
 
-## R for Business - Advanced
+## Business Consulting
 
-I train professionals (both business and academics) on **R in production**, 
-relative to the best practices of software development using R 
-(profiling, versioning, testing, documenting, packaging and CI/CD).  
-The highly intensive training allows companies to help their specialists in 
-the process of becoming **R Developers** and not just simple R users.  
+I offer **consultancy and training** about forecasting, machine learning, 
+and the development of business specific statistical models. 
+
+I helped several companies, like Luxottica, Mediaworld, and Blue Panorama Airlines, 
+to improve their forecasting processes and tools.
+I also helped companies to train their employees on how to use R and Python for
+data analysis and forecasting.
+The highly intensive training allows companies to help their specialists in the 
+process of becoming proficient forecasters and forecasting model developers.
 
 For more details, email me at zanottimarco17@gmail.com.
 
@@ -79,13 +82,13 @@ For more details, email me at zanottimarco17@gmail.com.
 
 I teach econometrics, time series, forecasting, R programming, statistics and 
 data science related topics to students.  
-I have helped more than 200 students preparing their exams, thesis and PhD projects.  
+I have helped more than 300 students preparing their exams, thesis and projects.  
 
 If you need help, do not hesitate! Contact me directly emailing to 
 zanottimarco17@gmail.com or texting me on 
 [WhatsApp](https://api.whatsapp.com/send/?phone=393349808108).
 
 Reviews on my teaching support can be found on [Superprof](https://www.superprof.it/):  
-- **[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-gretl-data-scientist-phd-statistica-professore-universitario.html)**  
-- **[Statistics & Mathematics](https://www.superprof.it/lezioni-matematica-statistica-data-scientist-phd-statistica-professore-universitario.html)**  
-- **[Data Science & R Programming](https://www.superprof.it/lezioni-data-science-machine-learning-python-sql-data-scientist-phd-statistica-professore-universitario.html)**  
+- **[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-stata-gretl-anche-inglese-docente-universitario-phd.html)**  
+- **[Statistics](https://www.superprof.it/lezioni-statistica-anche-inglese-docente-universitario-phd-statistica-data-scientist.html)**  
+- **[Artificial Intelligence](https://www.superprof.it/lezioni-machine-learning-deep-learning-python-anche-inglese-docente-universitario-phd-statistica.html)**  
