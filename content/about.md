@@ -107,7 +107,7 @@ for
 
 ## Publications
 
-In 2021 I published an R package related to the topic of **behavioral finance**
+In 2021 I published an R package related to the topic of **behavioral finance**.
 It is the first R package allowing R users to perform several types of
 behavioral analysis.  
 The released version of the [**dispositionEffect**](https://marcozanotti.github.io/dispositionEffect)
@@ -116,12 +116,18 @@ The software has been presented at the [useR!2021 Conference](https://user2021.r
 and it has been listed on the [Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
 on August 2021.
 
-Since 2022 I am working academic research projects related to **time series forecasting**.
-In particular, I am going to publish few papers that focus on sustainable forecasting 
+Since 2022 I am working on academic research projects related to **time series forecasting**.
+In particular, I published few papers that focus on sustainable forecasting 
 practices and the development of a high-performance forecasting system.
 
-- Zanotti, 2026, On the forecast stability of global forecasting models
-- Zanotti, 2026, Do global forecasting models require frequent retraining?
+- [Zanotti, M. (2025). On the retraining frequency of global forecasting models. arXiv](https://arxiv.org/abs/2505.00356)  
+- [Zanotti, M. (2025). The effects of retraining on the stability of global models in retail demand forecasting. arXiv](https://arxiv.org/abs/2506.05776)  
+- [Zanotti, M. (2025). The cost of ensembling: is it always worth combining? arXiv](https://arxiv.org/abs/2506.04677)  
+
+In 2025 I won the ISF (International Symposium on Forecasting) Award for the 
+work titled "Do Global Forecasting Models Require Frequent Retraining?", which
+I presented at the [ISF 2025 Conference](https://isf.forecasters.org/wp-content/uploads/BookOfAbstracts-ISF2025a_FINAL.pdf) 
+in Beijing, China.
 
 
 ## Education
@@ -164,7 +170,7 @@ whenever I can I go kite surfing all around the world.
 &nbsp;
 
 I also have a little friend named **Milo**, who is a very good 
-companion for my adventures.  
+companion of life.  
 
 &nbsp;
 

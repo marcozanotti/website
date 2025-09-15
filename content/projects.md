@@ -58,7 +58,7 @@ on August 2021.
 ## Silene Acaulis
 
 The Silene acaulis is a **collaboration project** on the topic of Ecological Science
-developed by [Maria Elisa Pierfederici](https://www.nmbu.no/ans/maria.elisa.pierfederici). 
+developed by [Maria Elisa Pierfederici](https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/). 
 I have contributed to the research with the statistical analysis of biological 
 data.   
 
