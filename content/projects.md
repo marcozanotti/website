@@ -11,14 +11,15 @@ title: Projects
 
 ## Forecast App
 
-The **Forecast App** is a comprehensive tool designed to guide users 
+The [**Forecast App**](https://marcozanotti.shinyapps.io/ForecastApp/) 
+is a comprehensive tool designed to guide users 
 through the entire forecasting workflow, from raw data to scenario analysis.
 It is tailored for both beginners and experienced practitioners, allowing the 
 exploration, modeling, and explanation of time series data without requiring 
 advanced knowledge of forecasting techniques.  
 
-The app is organized into four main sections —**Data**, **Analyze**, 
-**Features**, and **Forecast**— which collectively enable users to:  
+The app is organized into four main sections — Data, Analyze, 
+Features, and Forecast — which collectively enable users to:  
 
 - Upload and explore time series data  
 - Detect and handle missing values and anomalies  
@@ -33,7 +34,7 @@ The app provides great flexibility in analysis: interactive visualizations,
 configurable model parameters, and multiple options for evaluation and 
 explanation allow users to tailor the process to their specific needs.
 
-You can access the stable version at [Forecast App](https://marcozanotti.shinyapps.io/ForecastApp/).
+You can access the latest version at [Forecast App](https://marcozanotti.shinyapps.io/ForecastApp/). 
 
 Follow the [user guide](https://marcozanotti.github.io/tsforecasting-dashboard/manual/forecastapp-manual.html) 
 to leverage the full potential of the Forecast App to obtain accurate 
@@ -48,21 +49,6 @@ If you find bugs or have suggestions for improvements, please open an issue on
 
 The [source code](https://github.com/marcozanotti/tsforecasting-dashboard) of 
 the Forecast App is available on GitHub under the MIT license.  
-
-
-## Time Series Forecasting Tool: Global Models
-
-Working project related to the development of a **high-performance forecasting system** 
-that allows to quickly produce forecasts for thousands time series using many different
-approaches and algorithms.  
-Especially, the project focuses on the use of the novel **global models methodologies**.  
-
-
-## Time Series Anomaly Detection: Ensemble Techiques
-
-Working project related to the development of a **ensemble anomaly detection method** 
-that allows to quickly estimate the probability of an observation to be an anomaly
-by using an ensemble learning strategy of many different anomaly detection methods.  
 
 
 ## Disposition Effect
@@ -80,10 +66,10 @@ The research project aims at studying the disposition effect more deeply and
 and more effectively compared to what it is already been done by other researchers.  
 To do that, the project focuses on two main aspects:  
 
-1. **Methodological advances** with the publication of an academic paper:   
+1. Methodological advances with the publication of an academic paper:   
 - *Mazzucchelli, and Zanotti, 2026, Bridging the Gap: Enhancing Integrated Framing with Idiosyncratic Volatility and Short Selling*  
 
-2. **Practical advances** with the creation of a software helping researchers and 
+2. Practical advances with the creation of a software helping researchers and 
 institutions in the computation of the disposition effect: the 
 **[dispositionEffect](https://marcozanotti.github.io/dispositionEffect)** R Package.  
 The released version of the software is available on 

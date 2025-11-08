@@ -9,58 +9,58 @@ date: "2021-04-12"
 title: Teachings
 ---
 
-## Time Series Forecasting: Machine Learning and Deep Learning with R & Python
+## Modern Time Series Forecasting
+ 
+Modern forecasting moves beyond single-model approaches to handle large, 
+complex panels of time series with diverse patterns and uncertainties. 
+Effective workflows combine statistical, machine learning, and deep 
+learning models, emphasizing scalability, probabilistic accuracy, and 
+reproducibility.
 
-*Overview*
-  
-In the last 15 years, business requests related to time series forecasting changed 
-dramatically. Business needs evolved from predicting at most 100, low frequency 
-data, to forecasting 10.000, high frequency time series. Unfortunately, the 
-classical tools may not be the best anymore, both in terms of accuracy and computationally.
-Hence, nowadays the “time series forecasting” data scientist is required 
-to be capable of providing business forecasting solutions tackling both scalability 
-and accuracy, constantly keeping up-to-date with new methods.
+**Global models** leverage information across series, while ensembles and 
+**foundation models** enhance robustness and automation. **Agentic systems** now 
+orchestrate the full forecasting lifecycle—from data preparation to 
+monitoring—with built-in compliance and efficiency.
 
-The aim of the course is to teach how time series forecasting problems can be solved 
-in practice. The state-of-the-art techniques are presented from a very practical 
-point of view, throughout **R** and **Python** tutorials.
+This course teaches how to build scalable, interpretable, and production-ready 
+forecasting systems, integrating modern algorithms, rigorous evaluation, and 
+sound methodological principles.  
 
-- [Course Websites](https://marcozanotti.github.io/tsforecasting-course/)  
-- [Course Descriprion (for Students)](https://marcozanotti.github.io/tsforecasting-course/general-infos/tsf_description.html)
-- [Course Descriprion (for Business Experts)](https://marcozanotti.github.io/tsforecasting-course/general-infos/tsf_description_business.html)  
-- [Syllabus](https://marcozanotti.github.io/tsforecasting-course/general-infos/tsf_syllabus.html)  
+- [Modern Time Series Forecasting with Python](https://marcozanotti.github.io/modern-tsf-py/)  
+- [Modern Time Series Forecasting with R](https://marcozanotti.github.io/modern-tsf-r/)
 
 
 ## Statistical Learning, Machine Learning & Artificial Intelligence
-
-*Overview*
   
-The course introduces the most important algorithmic and statistic machine 
-learning tools. It aims at teaching a methodological and practical overview to 
-statistical learning methods. The emphasis is on the applications and 
-state-of-the-art techniques are presented through hands-on labs with **R**.  
+This course provides a comprehensive introduction to statistical learning, 
+machine learning, and artificial intelligence, bridging traditional statistical 
+modeling with modern algorithmic approaches. Participants will learn how models learn 
+from data, how to evaluate and interpret results, and how to apply these techniques 
+to real-world problems.
 
-- [Course Websites](https://marcozanotti.github.io/statlearning-course/)  
-- [Course Descriprion (for Students)](https://marcozanotti.github.io/statlearning-course/general-infos/statlearn_description.html)
-- [Course Descriprion (for Business Experts)](https://marcozanotti.github.io/statlearning-course/general-infos/statlearn_description_business.html)  
-- [Syllabus](https://marcozanotti.github.io/statlearning-course/general-infos/statlearn_syllabus.html)  
+The course teaches how to build end-to-end workflows using **R** production-ready 
+frameworks like **tidymodels**, ensuring consistency, reproducibility, and 
+scalability from model development to deployment.
+
+By the end, participants will be able to design, tune, and assess predictive models, 
+integrate them into robust analytical pipelines, and confidently apply 
+**state-of-the-art learning techniques** across domains in business, science, and 
+technology.
+
+- [Website](https://marcozanotti.github.io/statlearning-course/)  
+- [Programme](https://marcozanotti.github.io/statlearning-course/general-infos/statlearn_syllabus.html)  
 
 
 ## R Coding
 
-*Overview*
+This course provides a comprehensive introduction to **R programming**, designed for students, researchers, and professionals who want to develop a solid foundation in data analysis, statistical computing, and reproducible research.
 
-The course aims at providing technical skills about coding/scripting
-aspects for data analysis and to manage persistent data storage of
-sources and results involved in analysis. On the one side, the R framework is 
-illustrated. The goal is to deal first with essential notions about data 
-structures and control structures of R, then to learn how to code with modern 
-and state-of-the-art R packages.  
+The course begins with the basics of the R environment, syntax, and data structures, then progresses through data wrangling with the **tidyverse**, data visualization with **ggplot2**, and **functional programming** with purrr. Learners will also gain hands-on experience in data import and export, **data cleaning**, and **workflow automation** using reproducible tools such as R Markdown and Quarto.
 
-- [Course Websites](https://marcozanotti.github.io/rcoding-course/)  
-- [Course Descriprion (for Students)](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_description.html)
-- [Course Descriprion (for Business Experts)](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_description_business.html)  
-- [Syllabus](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_syllabus.html)   
+The course also introduces **Business Intelligence** (BI) development using R, where learners will build interactive dashboards and data applications with **Flexdashboard** and **Shiny**. These tools enable the creation of dynamic visual analytics and web-based reports directly from R, empowering participants to share insights interactively with non-technical stakeholders and decision-makers.
+
+- [Website](https://marcozanotti.github.io/rcoding-course/)  
+- [Programme](https://marcozanotti.github.io/rcoding-course/general-infos/rcod_syllabus.html)   
 
 
 ## Business Consulting
@@ -70,8 +70,8 @@ and the development of business specific statistical models.
 
 I helped several companies, like Luxottica, Mediaworld, and Blue Panorama Airlines, 
 to improve their forecasting processes and tools.
-I also helped companies to train their employees on how to use R and Python for
-data analysis and forecasting.
+I also helped companies to train their employees on how to use **R** and **Python** for
+data analysis and **forecasting**.
 The highly intensive training allows companies to help their specialists in the 
 process of becoming proficient forecasters and forecasting model developers.
 
@@ -80,7 +80,7 @@ For more details, email me at zanottimarco17@gmail.com.
 
 ## Private Lectures
 
-I teach econometrics, time series, forecasting, R programming, statistics and 
+I teach econometrics, time series, forecasting, R and Python programming, statistics and 
 data science related topics to students.  
 I have helped more than 300 students preparing their exams, thesis and projects.  
 
