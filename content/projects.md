@@ -64,20 +64,15 @@ related to sunk costs’ bias, diminishing sensitivity, and loss aversion.
 
 The research project aims at studying the disposition effect more deeply and
 and more effectively compared to what it is already been done by other researchers.  
-To do that, the project focuses on two main aspects:  
+The project ends with the publication of a scientific paper and an open source software:     
 
-1. Methodological advances with the publication of an academic paper:   
-- *Mazzucchelli, and Zanotti, 2026, Bridging the Gap: Enhancing Integrated Framing with Idiosyncratic Volatility and Short Selling*  
+  
+- *Mazzucchelli L., and Zanotti M., (2026), Bridging the Gap: Enhancing Integrated Framing with Idiosyncratic Volatility and Short Selling*   
 
-2. Practical advances with the creation of a software helping researchers and 
-institutions in the computation of the disposition effect: the 
-**[dispositionEffect](https://marcozanotti.github.io/dispositionEffect)** R Package.  
-The released version of the software is available on 
-[CRAN](https://CRAN.R-project.org/package=dispositionEffect).
-The development version, instead, is available on 
-[Github](https://github.com/marcozanotti/dispositionEffect).   
+- [*dispositionEffect, R Software, CRAN*](https://CRAN.R-project.org/package=dispositionEffect)  
+  
 The software has been presented at the [useR!2021 Conference](https://user2021.r-project.org/),
-it has been listed on the 
+and it has been listed on the 
 [Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
 on August 2021.
 
@@ -99,5 +94,6 @@ foundational plant widely distributed in the Northern hemisphere that
 facilitates other species by creating microclimatic habitats.  
 
 The project ends with the publication of a scientific paper:  
-- *Pierfederici et al, 2026, Climate changing's effects on Silene acaulis*.  
+
+- *Pierfederici et al, (2026), Climate changing's effects on Silene acaulis*.  
 
