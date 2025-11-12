@@ -48,7 +48,21 @@ If you find bugs or have suggestions for improvements, please open an issue on
 [GitHub](https://github.com/marcozanotti/tsforecasting-dashboard/issues).  
 
 The [source code](https://github.com/marcozanotti/tsforecasting-dashboard) of 
-the Forecast App is available on GitHub under the MIT license.  
+the Forecast App is available on GitHub under the MIT license.
+
+
+## Utilsforecast - Nixtla
+
+I am an active contributor of the open source Nixtla's library utilsforecast.  
+
+My contributions are mainly focused on expanding the loss functions available 
+to Nixtla's users to allow for a more comprehensive and flexible evaluation of
+forecasting models.  
+
+In particular, I created some well-know metrics for evaluating point forecasts,
+the Mean Squared Scaled Error (MSSE) and the Root Mean Squared Scaled Error (RMSSE), 
+and some metrics for probabilistic forecasting evaluation, the Scaled Quantile Loss
+(SQL) and the Scaled Multi-Quantile Loss (SMQL).  
 
 
 ## Disposition Effect
