@@ -27,7 +27,7 @@ I also hold multiple certifications related to the analysis and forecasting of
 time series data. Recently I have enjoyed teaching professionals and university 
 students about time series analysis, machine learning, programming, and statistics.  
 
-I speak Italian, English and a little bit of French.  
+I speak Italian, English, and a little bit of French.  
 
 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html)!  
 
@@ -83,32 +83,6 @@ of Milano Bicocca, where I am working on academic research projects related to
 time series forecasting.
 
 
-## Publications
-
-I work on academic research projects related to **time series forecasting**.
-In particular, I published few papers that focus on sustainable forecasting 
-practices and the development of a high-performance forecasting systems.
-
-- [Zanotti, M. (2025). On the retraining frequency of global models in retail demand forecasting. Machine Learning with Applications, 22, 100769.](https://doi.org/10.1016/j.mlwa.2025.100769)  
-- [Zanotti, M. (2025). The effects of retraining on the stability of global models in retail demand forecasting. arXiv](https://arxiv.org/abs/2506.05776)  
-- [Zanotti, M. (2025). The cost of ensembling: is it always worth combining? arXiv](https://arxiv.org/abs/2506.04677)  
-
-In 2025 I won the **International Symposium on Forecasting Award** for the 
-work titled *"Do Global Forecasting Models Require Frequent Retraining?"*, which
-I presented at the [ISF 2025 Conference](https://isf.forecasters.org/wp-content/uploads/BookOfAbstracts-ISF2025a_FINAL.pdf) 
-in Beijing, China.
-
-In 2021 I also published an R package related to the topic of **behavioral finance**.
-It is the first R package allowing R users to perform several types of
-behavioral analysis.  
-
-- [dispositionEffect, CRAN](https://CRAN.R-project.org/package=dispositionEffect)  
-
-The software has been presented at the [useR!2021 Conference](https://user2021.r-project.org/) 
-and it has been listed on the [Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
-on August 2021.
-
-
 ## Teaching Experience
 
 Since 2019 I am **Adjunct Professor** at the University of Milan. 
@@ -131,6 +105,39 @@ for
 [**Econometrics & Forecasting**](https://www.superprof.it/lezioni-econometria-time-series-forecasting-stata-gretl-anche-inglese-docente-universitario-phd.html), and
 [**Statistics**](https://www.superprof.it/lezioni-statistica-anche-inglese-docente-universitario-phd-statistica-data-scientist.html), and 
 [**Artificial Intelligence**](https://www.superprof.it/lezioni-machine-learning-deep-learning-python-anche-inglese-docente-universitario-phd-statistica.html).
+
+
+## Publications
+
+I work on academic research projects related to **time series forecasting**.
+In particular, I published few papers that focus on sustainable forecasting 
+practices and the development of a high-performance forecasting systems.
+
+- [Zanotti, M. (2025). On the retraining frequency of global models in retail demand forecasting. Machine Learning with Applications, 22, 100769.](https://doi.org/10.1016/j.mlwa.2025.100769)  
+- [Zanotti, M. (2025). The effects of retraining on the stability of global models in retail demand forecasting. arXiv](https://arxiv.org/abs/2506.05776)  
+- [Zanotti, M. (2025). The cost of ensembling: is it always worth combining? arXiv](https://arxiv.org/abs/2506.04677)  
+
+In 2021 I also published an R package related to the topic of **behavioral finance**.
+It is the first R package allowing R users to perform several types of
+behavioral analysis.  
+
+- [dispositionEffect, CRAN](https://CRAN.R-project.org/package=dispositionEffect)  
+
+The software has been presented at the [useR!2021 Conference](https://user2021.r-project.org/) 
+and it has been listed on the [Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
+on August 2021.
+
+
+## Awards 
+
+Recently I obtained prestigious recognitions for my activity in the field of forecasting.
+
+- [**IIF-SAS 2025 Forecasting Research Grant**](https://forecasters.org/programs/research-awards/iif-sas/) in Business Applications
+
+- **International Symposium on Forecasting Award** for the work titled 
+*"Do Global Forecasting Models Require Frequent Retraining?"* presented at the 
+[ISF 2025 Conference](https://isf.forecasters.org/wp-content/uploads/BookOfAbstracts-ISF2025a_FINAL.pdf) 
+in Beijing, China.
 
 
 ## Education
@@ -160,6 +167,7 @@ I got many certifications related to data science and forecasting.
 - [Certified Forecaster and Demand Planner](https://drive.google.com/file/d/15qr9q6Gn-Hmm0o7oq3du6LZgshwrFgek/view?usp=drive_link), ISCEA	 
 - [High-Performance Time Series Forecasting](https://drive.google.com/file/d/1ErHw9P9oDdKJbYXgqbDXyQM9PTKXkGSm/view?usp=drive_link), BS University	
 - [Time Series Analysis](https://drive.google.com/file/d/1-d6Skr9B-mGaDpPUWGSS68M3QXEhRHRk/view?usp=sharing), CAC IIT	 
+- [Deep Learning for Sequence Modelling and Times Series](https://drive.google.com/drive/folders/1WXFi4qIBkNqcuxQ6sMY0v2HesR7cgTM-), Deep Learning Italia  
 - [Python for Machine Learning and APIs](https://drive.google.com/file/d/1DbvWrhzYpVcDLJoGQ7LO7_IwXAzC6fSc/view?usp=drive_link), BS University	
 - [Python for Data Science Automation](https://drive.google.com/file/d/1gP5gSPn510HiWyLMFkecp_i2TLLQ2pl-/view?usp=drive_link), BS University	
 - [Shiny Web Applications](https://drive.google.com/file/d/1qTFvQdoRIPFuH92njxA6__t1tGFSHP4T/view?usp=drive_link), BS University	
