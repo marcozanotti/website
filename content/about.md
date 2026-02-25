@@ -47,13 +47,13 @@ airline data.
 In 2020, I started to work as a Data Scientist for T-Voice, a start-up
 company of the [Triboo Group](https://triboo.com/), where I
 worked as a Senior Consultant to develop **client specific data analysis solutions**, 
-and I was responsible for the coordination of the R&D team.
+and I was responsible for the coordination of the R&D Team.
 
 In 2021, following an M&A operation, I became a Data Scientist in 
 [Blogmeter](https://www.blogmeter.it/it/home), a company of the 
-[Shibumi Group](https://shibumi.group/), where I helped to integrate machine 
-learning solutions into the main applications of the company, and coordinated the 
-Product team.
+[Shibumi Group](https://shibumi.group/). There I helped to integrate AI solutions 
+into the main applications of the company and I was responsible for the
+coordination of the Product Team.
 
 In 2024 I moved to [Wanan Luxury](https://www.wananluxury.com/) as a Lead
 Data Scientist - Forecaster Engineer. There I led the forecasting team, 
@@ -63,11 +63,14 @@ fashion products (SKUs), and training junior collegues.
 Throughout all my working experience I was responsible for the
 development of **time series forecasting** models, both for internal and
 clients needs.  
-I developed and maintained diverse statistical and machine learning models to 
-predict future sales at different aggregations to support strategic decisions, 
-daily inbound calls to optimize scheduling hours, air passenger demand over 
-several destinations to support aircraft planning, business car rental demand to 
-support fleets management, etc.  
+I developed and maintained diverse statistical and machine learning models to
+predict:  
+- product demand at different aggregation levels to support both operational and 
+strategic decisions,  
+- daily inbound calls to optimize scheduling hours,  
+- air passenger demand over several destinations to support aircraft planning, 
+- business car rental demand to support fleets management, etc.  
+
 I coordinated and contributed to the development of forecasting tools to predict 
 future demand for tens of thousands item-level (SKUs) time series across several 
 markets worldwide, and with different product hierarchies.  
@@ -78,7 +81,7 @@ learning solutions by the business.
 Finally, I provided mentorship to junior colleagues, supporting their professional 
 growth and development in the field of forecasting.  
 
-Since 2022 I am also a **Ph.D. Researcher in Statistics** at the University
+I am also a **Ph.D. Researcher in Statistics** at the University
 of Milano Bicocca, where I am working on academic research projects related to
 time series forecasting.
 
@@ -89,15 +92,15 @@ Since 2019 I am **Adjunct Professor** at the University of Milan.
 I teach Statistics and Mathematical Methods in few Bachelor's degree 
 courses, and Time Series Forecasting, Statistical Learning and Coding
 at the Master's degree in [Data Science](https://dse.cdl.unimi.it/en).  
-Have a look at my [teachings](https://marcozanotti.netlify.app/teachings/).  
+Have a look at my [courses](https://marcozanotti.netlify.app/teachings/).  
 
-I also I offer **consultancy and training** about forecasting, machine learning, 
+I also offer **consultancy and training** about forecasting, machine learning, 
 and the development of business specific statistical models. 
 Over the years, I helped several companies, like Luxottica, Mediaworld, and 
 Blue Panorama Airlines, to improve their forecasting processes and tools.
 
 I like teaching, indeed, since 2018 I have helped **more than 300
-students** with their exams, thesis and PhD projects, through **private
+students** with their exams, thesis and projects, through **private
 lectures** and support. I mainly teach econometrics, time series,
 forecasting, programming, statistics and data science related topics.  
 I am a top teacher on [Superprof](https://www.superprof.it/) Italia
@@ -111,13 +114,13 @@ for
 
 I work on academic research projects related to **time series forecasting**.
 In particular, I published few papers that focus on sustainable forecasting 
-practices and the development of a high-performance forecasting systems.
+practices and the development of high-performance forecasting systems.
 
 - [Zanotti, M. (2025). On the retraining frequency of global models in retail demand forecasting. Machine Learning with Applications, 22, 100769.](https://doi.org/10.1016/j.mlwa.2025.100769)  
-- [Zanotti, M. (2025). The effects of retraining on the stability of global models in retail demand forecasting. arXiv](https://arxiv.org/abs/2506.05776)  
+- [Zanotti, M. (2025). Analyzing the retraining frequency of global forecasting models: towards more stable forecasting systems. arXiv](https://arxiv.org/abs/2506.05776)  
 - [Zanotti, M. (2025). The cost of ensembling: is it always worth combining? arXiv](https://arxiv.org/abs/2506.04677)  
 
-In 2021 I also published an R package related to the topic of **behavioral finance**.
+In 2021 I also published an **R package** related to the topic of behavioral finance.
 It is the first R package allowing R users to perform several types of
 behavioral analysis.  
 
@@ -130,11 +133,11 @@ on August 2021.
 
 ## Awards 
 
-Recently I obtained prestigious recognitions for my activity in the field of forecasting.
+I obtained prestigious recognitions for my activity in the field of forecasting.
 
-- [**IIF-SAS 2025 Forecasting Research Grant**](https://forecasters.org/programs/research-awards/iif-sas/) in Business Applications
+- The [**IIF-SAS 2025 Forecasting Research Grant**](https://forecasters.org/programs/research-awards/iif-sas/) for the research project *"Analyzing the Retraining Frequency of Forecasting Models: Towards Accurate, Stable, and Sustainable Forecasting Systems"*
 
-- **International Symposium on Forecasting Award** for the work titled 
+- The **International Symposium on Forecasting Award** for the work titled 
 *"Do Global Forecasting Models Require Frequent Retraining?"* presented at the 
 [ISF 2025 Conference](https://isf.forecasters.org/wp-content/uploads/BookOfAbstracts-ISF2025a_FINAL.pdf) 
 in Beijing, China.
@@ -153,13 +156,19 @@ amazing experiences.
 &nbsp;
 
 I graduated **cum laude** in the [Master's degree in Quantitative Finance](https://mef.cdl.unimi.it/en) 
-at the University of Milan, with a thesis related to time series forecasting.
+at the University of Milan, with a thesis related to time series forecasting in the 
+airline industry: *"Seasonal Analysis and Forecasting Evaluation of Seasonal Models 
+Applied to Air Traffic Demand"*.
 
 In 2018, while working, I got a second level [Master in Data Science](https://masterdsebf.unimi.it/index.html).
 
-Since 2022, I am a [**Ph.D. Researcher of Statistics**](https://dems.unimib.it/en/research/phd-economics-statistics-and-data-science) at the University of Milano 
-Bicocca. My research topics are time series forecasting, cross-learning, 
-forecasting stability, time series foundation models (LLMs), and sustainable AI.
+In 2022, I won a fully-funded position as a 
+[Ph.D. Student of Statistics](https://dems.unimib.it/en/research/phd-economics-statistics-and-data-science) at the University of Milano 
+Bicocca, where I obtained the title of **Ph.D. in Statistics** in 2026.  
+
+My research topics are time series forecasting, cross-learning, 
+forecasting stability, anomaly detection, time series foundation 
+models (LLMs), and sustainable AI.
 
 I always try to keep my knowledge improving, indeed, over the years 
 I got many certifications related to data science and forecasting.

@@ -53,10 +53,11 @@ the Forecast App is available on GitHub under the MIT license.
 
 ## Utilsforecast - Nixtla
 
-I am an active contributor of the open source Nixtla's library utilsforecast.  
+I am an active contributor of the open source Nixtla's library 
+[**utilsforecast**](https://github.com/Nixtla/utilsforecast).  
 
 My contributions are mainly focused on expanding the loss functions available 
-to Nixtla's users to allow for a more comprehensive and flexible evaluation of
+to allow for a more comprehensive and flexible evaluation of
 forecasting models.  
 
 In particular, I created some well-know metrics for evaluating point forecasts,
@@ -67,7 +68,7 @@ and some metrics for probabilistic forecasting evaluation, the Scaled Quantile L
 
 ## Disposition Effect
 
-The disposition effect is a **joint research project** on the topic of Behavioral 
+The disposition effect is a joint research project on the topic of Behavioral 
 Economics & Finance developed by me and 
 [Lorenzo Mazzucchelli](https://www.linkedin.com/in/lorenzo-mazzucchelli-72a661122/).  
 
@@ -93,7 +94,7 @@ on August 2021.
 
 ## Silene Acaulis
 
-The Silene acaulis is a **collaboration project** on the topic of Ecological Science
+The Silene acaulis is a collaboration project on the topic of Ecological Science
 developed by [Maria Elisa Pierfederici](https://www.linkedin.com/in/maria-elisa-pierfederici-5392aa182/). 
 I have contributed to the research with the statistical analysis of biological 
 data.   
