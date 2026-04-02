@@ -82,7 +82,7 @@ and more effectively compared to what it is already been done by other researche
 The project ends with the publication of a scientific paper and an open source software:     
 
   
-- *Mazzucchelli L., and Zanotti M., (2026), Bridging the Gap: Enhancing Integrated Framing with Idiosyncratic Volatility and Short Selling*   
+- *- Mazzucchelli, L., Zanotti, M., et al. (2026). Do Short Exposure and Systematic Risk Exposure Drive Asymmetries in the Disposition Effect? arXiv*   
 
 - [*dispositionEffect, R Software, CRAN*](https://CRAN.R-project.org/package=dispositionEffect)  
   
@@ -110,5 +110,5 @@ facilitates other species by creating microclimatic habitats.
 
 The project ends with the publication of a scientific paper:  
 
-- *Pierfederici et al, (2026), Climate changing's effects on Silene acaulis*.  
+- *Pierfederici, M. E., et al. (2026), Climate changing's effects on Silene acaulis. arXiv*.  
 

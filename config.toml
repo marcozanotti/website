@@ -60,7 +60,7 @@ disableHugoGeneratorInject = false
   images = [""]
 
   # Home subtitle of the index page.
-  homeSubtitle = "Forecasting & Machine Learning Engineer - Ph.D. in Statistics"
+  homeSubtitle = "Data Scientist - Forecasting Specialist - Ph.D. in Statistics"
 
   # Set a background for the homepage
   # backgroundImage = "img/kite.jpg"

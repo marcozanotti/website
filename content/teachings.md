@@ -81,12 +81,11 @@ For more details, email me at zanottimarco17@gmail.com.
 ## Private Lectures
 
 I teach econometrics, time series, forecasting, R and Python programming, statistics and 
-data science related topics to students.  
-I have helped more than 300 students preparing their exams, thesis and projects.  
+data science related topics to students. I have helped more than 300 students preparing 
+their exams, thesis and projects.  
 
 If you need help, do not hesitate! Contact me directly emailing to 
-zanottimarco17@gmail.com or texting me on 
-[WhatsApp](https://api.whatsapp.com/send/?phone=393349808108).
+zanottimarco17@gmail.com or texting me on [WhatsApp](https://api.whatsapp.com/send/?phone=393349808108).
 
 Reviews on my teaching support can be found on [Superprof](https://www.superprof.it/):  
 - **[Econometrics & Forecasting](https://www.superprof.it/lezioni-econometria-time-series-forecasting-stata-gretl-anche-inglese-docente-universitario-phd.html)**  
