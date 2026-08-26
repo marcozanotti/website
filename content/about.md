@@ -18,7 +18,7 @@ I am a data scientist with broad knowledge in time series analysis, forecasting,
 anomaly detection, and econometrics. 
 I specialized in developing and enhancing business forecasting processes and practices. 
 Over the years I developed and contributed to core forecasting systems in sectors 
-like e-commerce fashion, airline, tourism and travel. I also guided and mentored 
+like e-commerce fashion, airline, logistic, tourism and travel. I also guided and mentored 
 junior colleagues in developing predictive models that enable accurate forecasting. 
 I am passionate about advancing the field of forecasting and fostering collaboration 
 between academia and industry. I do academic work in time series forecasting, and 
@@ -27,7 +27,8 @@ I also hold multiple certifications related to the analysis and forecasting of
 time series data. Recently I have enjoyed teaching professionals and university 
 students about time series analysis, machine learning, programming, and statistics.  
 
-I speak Italian, English, and a little bit of French.  
+I speak Italian, English, and a little bit of French. English is my daily
+working language in a fully remote, international team.  
 
 Have a look at my [Curriculum Vitae](https://marcozanotti.github.io/CVitae/cv_resume/cv_en.html)!  
 
@@ -58,11 +59,21 @@ into the main applications of the company and I was responsible for the
 In 2024 I moved to [Wanan Luxury](https://www.wananluxury.com/) as a Lead
 Data Scientist - Forecasting Specialist. There I **led the forecasting team**, 
 developing demand forecasting solutions for thousands of e-commerce 
-fashion products (SKUs), and training junior collegues.
+fashion products (SKUs), and training junior colleagues.
 
-<!-- In 2026 I had the great opportunity to work as a Senior Researcher for 
-[iqast: Intelligent Forecasting](http://iqast.de/), an important German company 
-in the field of forecasting softwares.   -->
+In 2026, I had the great opportunity to join [iqast](https://iqast.de/), 
+a German-based important forecasting software company, working full remote as 
+a Senior Researcher. There I worked on a project related to **global container 
+shipping demand forecasting**.
+
+Since May 2026 I am currently employed at [Sabre](https://www.sabre.com/), a
+US-based travel technology company, as a Senior Data Science Engineer, working 
+full remote. 
+Here, I **develop demand forecasting solutions for airline clients in revenue 
+management**, applying forecasting methodologies to support pricing optimization 
+decisions. I work every day within a **globally distributed team**, collaborating 
+in English with colleagues and clients across the world, which means constantly 
+bridging different time zones, working styles and business cultures.
 
 Throughout all my working experience I was responsible for the
 development of **time series forecasting** models, both for internal and
@@ -71,6 +82,7 @@ I developed and maintained diverse statistical and machine learning models to
 predict:  
 - product demand at different aggregation levels to support both operational and 
 strategic decisions,  
+- container shipping demand across global trade lanes to support capacity planning,
 - daily inbound calls to optimize scheduling hours,  
 - air passenger demand over several destinations to support aircraft planning, 
 - business car rental demand to support fleets management, etc.  
@@ -140,7 +152,7 @@ behavioral analysis.
 - [dispositionEffect, CRAN](https://CRAN.R-project.org/package=dispositionEffect)  
 
 The software has been presented at the [useR!2021 Conference](https://user2021.r-project.org/) 
-and it has been listed on the [Top 40 New CRAN Packaes](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
+and it has been listed on the [Top 40 New CRAN Packages](https://rviews.rstudio.com/2021/09/27/august-2021-top-40-new-cran-packages/)
 on August 2021.
 
 
@@ -196,7 +208,7 @@ I got many certifications related to data science and forecasting.
 - [Python for Machine Learning and APIs](https://drive.google.com/file/d/1DbvWrhzYpVcDLJoGQ7LO7_IwXAzC6fSc/view?usp=drive_link), BS University	
 - [Python for Data Science Automation](https://drive.google.com/file/d/1gP5gSPn510HiWyLMFkecp_i2TLLQ2pl-/view?usp=drive_link), BS University	
 - [Shiny Web Applications](https://drive.google.com/file/d/1qTFvQdoRIPFuH92njxA6__t1tGFSHP4T/view?usp=drive_link), BS University	
-- [Macroeconometric Foreasting](https://drive.google.com/file/d/1dpgNe8ScxJKVrkEFWI-qgg8-5c4TqBPi/view?usp=drive_link), IMF
+- [Macroeconometric Forecasting](https://drive.google.com/file/d/1dpgNe8ScxJKVrkEFWI-qgg8-5c4TqBPi/view?usp=drive_link), IMF
 
 
 ## Sports & Hobbies
